@@ -1,0 +1,21 @@
+﻿
+@{
+    Layout = null;
+    
+    log4net.ILog Log = log4net.LogManager.GetLogger("Views.Index");
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>title</title>
+    </head>
+    <body>
+        <div>
+              @{
+                  Log.Info("rendering div...");
+              }
+        </div>
+    </body>
+</html>

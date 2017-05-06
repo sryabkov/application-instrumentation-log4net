@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStacks", "UsingStacks\UsingStacks.csproj", "{9286785E-CEE5-403F-9823-FA10A0F03034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDemo", "SimpleDemo\SimpleDemo.csproj", "{DBCD66E7-7CD6-41D5-AB1E-0BA5CC849962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadContext", "ThreadContext\ThreadContext.csproj", "{4232CB13-1189-48A9-B265-CF5B575BAB1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatedProperties", "CalculatedProperties\CalculatedProperties.csproj", "{ABC6B7C2-5C9F-4650-BB2B-78E4E1DFA9CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E81A82C8-4412-43DD-882F-D68CF311C5F4}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9286785E-CEE5-403F-9823-FA10A0F03034}.Debug|x86.ActiveCfg = Debug|x86
+		{9286785E-CEE5-403F-9823-FA10A0F03034}.Debug|x86.Build.0 = Debug|x86
+		{9286785E-CEE5-403F-9823-FA10A0F03034}.Release|x86.ActiveCfg = Release|x86
+		{9286785E-CEE5-403F-9823-FA10A0F03034}.Release|x86.Build.0 = Release|x86
+		{DBCD66E7-7CD6-41D5-AB1E-0BA5CC849962}.Debug|x86.ActiveCfg = Debug|x86
+		{DBCD66E7-7CD6-41D5-AB1E-0BA5CC849962}.Debug|x86.Build.0 = Debug|x86
+		{DBCD66E7-7CD6-41D5-AB1E-0BA5CC849962}.Release|x86.ActiveCfg = Release|x86
+		{DBCD66E7-7CD6-41D5-AB1E-0BA5CC849962}.Release|x86.Build.0 = Release|x86
+		{4232CB13-1189-48A9-B265-CF5B575BAB1D}.Debug|x86.ActiveCfg = Debug|x86
+		{4232CB13-1189-48A9-B265-CF5B575BAB1D}.Debug|x86.Build.0 = Debug|x86
+		{4232CB13-1189-48A9-B265-CF5B575BAB1D}.Release|x86.ActiveCfg = Release|x86
+		{4232CB13-1189-48A9-B265-CF5B575BAB1D}.Release|x86.Build.0 = Release|x86
+		{ABC6B7C2-5C9F-4650-BB2B-78E4E1DFA9CB}.Debug|x86.ActiveCfg = Debug|x86
+		{ABC6B7C2-5C9F-4650-BB2B-78E4E1DFA9CB}.Debug|x86.Build.0 = Debug|x86
+		{ABC6B7C2-5C9F-4650-BB2B-78E4E1DFA9CB}.Release|x86.ActiveCfg = Release|x86
+		{ABC6B7C2-5C9F-4650-BB2B-78E4E1DFA9CB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
