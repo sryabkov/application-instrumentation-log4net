@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioAppender", "TwilioAppender\TwilioAppender.csproj", "{3B35D642-50F2-44B8-9343-DDCF1D1D59C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeApplication", "AwesomeApplication\AwesomeApplication.csproj", "{CE719A89-9C8C-41A7-9338-0AECCAF99E3C}"
@@ -8,13 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryStringFilter", "QueryStringFilter\QueryStringFilter.csproj", "{655DED0F-8178-41BB-8401-BDE7D6368663}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonLayout", "JsonLayout\JsonLayout.csproj", "{3D04A62F-538F-43C1-B9C4-2ED67E717175}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{00C43AE0-87FE-4143-8D34-D9D3C2557B40}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.Config = .nuget\NuGet.Config
-		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.targets = .nuget\NuGet.targets
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeWebsite", "AwesomeWebsite\AwesomeWebsite.csproj", "{22CFA2B9-DC02-44D8-A641-651CAF1C18D3}"
 EndProject
